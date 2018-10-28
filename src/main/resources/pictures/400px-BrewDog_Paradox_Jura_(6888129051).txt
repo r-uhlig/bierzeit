@@ -1,0 +1,8 @@
+https://commons.wikimedia.org/wiki/File:BrewDog_Paradox_Jura_(6888129051).jpg
+
+By Christer Edvartsen from Fredrikstad, Norway (BrewDog Paradox Jura) [CC BY 2.0  (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+
+BrewDog, Balmacassie Way, Waterton, Aberdeenshire, Schottland, AB41 8BX, Vereinigtes Königreich
+lat=57.37114
+lon=-2.05796
+height=26.75
